@@ -1,0 +1,10 @@
+# Ignore the Backup folder
+/Backup/
+
+# Ignore .toe files with a number suffix (e.g., file.1.toe, file.2.toe, etc.)
+*.toe.[0-9]*
+
+# Ignore common system files
+.DS_Store
+Thumbs.db
+
